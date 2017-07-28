@@ -26,7 +26,7 @@ function getQuestion(){
 
 	else if (incorrect === 5) {
 
-		console.log("You Lost! Maybe you should try eatting more candy?")
+		console.log("You Lost! Maybe you should try eating more candy?")
 		correct = 0;
 		incorrect = 0;
 
